@@ -1,2 +1,2 @@
 # Hexo-source
-图床
+Hexo静态资源管理
